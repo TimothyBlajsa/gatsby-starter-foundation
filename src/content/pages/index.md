@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Timothy Blajsa
 tagline: Web Developer and Artist
-featuredImage: /assets/img_3499.jpeg
+featuredImage: /assets/img_3499.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
