@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Timothy Blajsa
+tagline: Web Developer and Artist
+featuredImage: /assets/img_3499.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+He is an award winning web developer and artist, based in intermittent New Jersey. Working as developer at Raritan Valley
