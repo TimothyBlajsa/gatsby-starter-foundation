@@ -12,15 +12,13 @@ featuredImage: /assets/markus-spiske-yxr8igwm4e0-unsplash.jpg
 
 While this year has been far from normal, things are consistently changing, and anything could happen at any point. However, these are no excuses for best practices of text and typography.
 
-**Font-families, faces, and Use:**
+**Font-families, Faces, and Use:**
 
 First of all, what is a font-family? A font-family is the main category that the particular font comes from. These are based on general text appearance and include five families: Cursive, Fantasy,Serif, Sans-serif, and Monospace.  
 
 Each family has its own variations of subtext, or font-faces. This is where writers can get creative in their choices. 
 
 Now that you know a little bit about fonts, how do you use them? This is as easy as modifying your html. Simply use the style attribute within your paragraph <p> tags: 
-
-
 
 ```
 <p style = "font-family:courier,arial,helvetica;">
@@ -30,11 +28,11 @@ Insert Text
 
 In the above example, the multiple font-families from left to right, are the order in which the user machine will parse the various fonts. In the event one font is not available, the machine knows to move to the next one. 
 
-**What is a web-safe font:**
+**What Is A Web-safe Font:**
 
 A web-safe font is simply any font that has a high chance of already being pre-installed on most computer devices.
 
-**Why do we need web-safe fonts:**
+**Why Do We Need Web-safe Fonts:**
 
 There are multiple reasons why these fonts are valuable to include in any piece of development. 
 
@@ -66,7 +64,7 @@ Some popular fonts include:
 
 ![](/assets/download-11.png)
 
-###### Resources:
+###### Resources: 
 
 <https://www.hostinger.com/tutorials/best-html-web-fonts>
 
