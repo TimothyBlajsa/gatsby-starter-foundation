@@ -44,7 +44,7 @@ In addition, if your brand, company, or client has requirements, make sure your 
 
 The font, the way the words come to life, should be held as just as important as the actual meaning of the words while being a reflection of the author. 
 
-For specific recommendations of fonts, check out my blog on Web Safe Fonts
+For specific recommendations of fonts, check out my blog on Web Safe Fonts:
 
 <https://idmx268-timothyblajsa.netlify.app/text%20and%20typography%20best%20practices>
 
