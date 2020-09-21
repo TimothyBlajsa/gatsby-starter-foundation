@@ -38,7 +38,11 @@ Now that you know where your text is going, you must decide how you want your au
 
 "More than 95% of information on the web is in the form of written language" - Nick Babich
 
-This is important, because while we may not realize it, what we read is a big part of how we ingest and understand the information on the page in front of us. Likewise, you wouldn't write a job proposal in Comic Sans. The font, the way the words come to life should be held as just important as the actual meaning of the words. 
+This is important, because while we may not realize it, what we read is a big part of how we ingest and understand the information on the page in front of us. Likewise, you wouldn't write a job proposal in Comic Sans. You can deliver different feelings by deciding whether to bolden text or italicize it, using a larger font size or even a heading can differentiate from the main body of text and a title. These little hints of extra added effort show that you know your audience. 
+
+In addition, if your brand, company, or client has requirements, make sure your choices meet those requirements. 
+
+The font, the way the words come to life, should be held as just as important as the actual meaning of the words while being a reflection of the author. 
 
 **Aesthetic and Visual Appeal:**
 
