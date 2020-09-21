@@ -8,7 +8,7 @@ featuredImage: /assets/alice-donovan-rouse-yu68fuqdvoi-unsplash.jpg
 ---
 # Choosing a Web Font:
 
-In our epic adventure of learning advanced web development together, we continue our dive into the world of text and typography
+In our epic adventure of learning advanced web development together, we continue our dive into the world of text and typography!
 
 **Typographic Relativism:**
 
@@ -43,6 +43,10 @@ This is important, because while we may not realize it, what we read is a big pa
 In addition, if your brand, company, or client has requirements, make sure your choices meet those requirements. 
 
 The font, the way the words come to life, should be held as just as important as the actual meaning of the words while being a reflection of the author. 
+
+For specific recommendations of fonts, check out my blog on Web Safe Fonts
+
+<https://idmx268-timothyblajsa.netlify.app/text%20and%20typography%20best%20practices>
 
 **Aesthetic and Visual Appeal:**
 
