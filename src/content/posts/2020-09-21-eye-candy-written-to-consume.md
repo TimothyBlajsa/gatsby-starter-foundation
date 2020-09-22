@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Eye Candy: Written to Consume"
-slug: eyecandywrritentoconsume
+slug: eye-candy-written-to-consume
 date: 2020-09-21 12:48
 description: typography continued
 featuredImage: /assets/alice-donovan-rouse-yu68fuqdvoi-unsplash.jpg
