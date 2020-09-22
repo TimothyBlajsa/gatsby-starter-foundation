@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Font-faces of the Future: Using web-safe fonts in 2020"
-slug: text and typography best practices
+slug: using-web-safe-fonts-2020
 date: 2020-09-14 16:24
 description: text and typography
 featuredImage: /assets/markus-spiske-yxr8igwm4e0-unsplash.jpg
