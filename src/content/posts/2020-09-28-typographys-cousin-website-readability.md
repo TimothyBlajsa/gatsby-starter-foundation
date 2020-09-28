@@ -84,4 +84,4 @@ https://webdesign.tutsplus.com/articles/readability-on-the-web--cms-31165
 
 https://www.hotjar.com/conversion-rate-optimization/glossary/website-readability/
 
-[](http://www.hemingwayapp.com/)BE SURE TO CHECK OUT THE OTHER ARTICLES ON THE BLOGS PAGE or HOMEPAGE
+[](http://www.hemingwayapp.com/)BE SURE TO CHECK OUT THE OTHER ARTICLES ON THE BLOGS PAGE or HOMEPAGE!
