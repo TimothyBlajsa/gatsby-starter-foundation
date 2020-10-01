@@ -46,7 +46,7 @@ The font, the way the words come to life, should be held as just as important as
 
 For specific recommendations of fonts, check out my blog on Web Safe Fonts:
 
-<https://idmx268-timothyblajsa.netlify.app/text%20and%20typography%20best%20practices>
+[Web-safe Fonts of the Future](https://idmx268-timothyblajsa.netlify.app/eye-candy-written-to-consume/using-web-safe-fonts-2020)
 
 **Aesthetic and Visual Appeal:**
 
