@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "CSS Photo Booth: Fun With Filters"
-slug: css_photo_booth_fun_with_filters
+slug: css-photo-booth-fun-with-filters
 date: 2020-10-12 14:38
 description: CSS Filters
 featuredImage: /assets/peter-stumpf-fhzepxtti_y-unsplash.jpg
@@ -200,4 +200,5 @@ Check out these cool sources!
 [MDN Web Docs: filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter) /
 [CSS-Tricks: filter](https://css-tricks.com/almanac/properties/f/filter/) /
 [CSS Filters Examples and Quick Demos](https://alligator.io/css/css-filter-examples/) /
-[CSS3 Filters](http://css3.bradshawenterprises.com/filters/)
+[CSS3 Filters](http://css3.bradshawenterprises.com/filters/) /
+[CSS Filter: Suprabha](https://dev.to/suprabhasupi/css-filter-32m7)
