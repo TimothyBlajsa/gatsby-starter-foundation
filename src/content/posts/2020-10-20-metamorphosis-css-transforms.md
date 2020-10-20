@@ -18,7 +18,7 @@ It's time we dive into CSS transforms, a powerful property that can be used to p
 
 Before we explore these creative transforms, first we must understand the property that began it all, this being the transform property. 
 
-This property is one that allows the developer to physically alter the rendered appearance of an element, whether this be a shape or some sort of text. This being said, it is a powerful tool, and can be utilized to both 2D and 3D animations. 
+This property is one that allows the developer to physically alter the rendered appearance of an element, whether this be a shape or some sort of text. This being said, it is a powerful tool, and can be utilized with both 2D and 3D animations. 
 
 But that's getting ahead of ourselves. After all, we need to understand some fundamental principles first!
 
@@ -142,11 +142,9 @@ div {
   }
 ```
 
-
-
 As a result, this div is skewed a number of degrees along both the x- and y-axis.
 
-Note: transform: skew takes care of both horizontal and vertical directions, however, transform: scaleX or scaleY will achieve the same effect for the individual parameters and axis
+Note: transform: skew takes care of both horizontal and vertical directions, however, transform: skewX or skewY will achieve the same effect for the individual parameters and axis
 
 ### Matrix()
 
@@ -167,16 +165,16 @@ Note: as of this example, this is a combination of 2D transforms
 In order to translate what has since been discussed into the third dimension, we must acknowledge two primary things:
 
 1. The z-axis
-
 2. Perspective
 
 Acknowledging these things in combination with the keyframes rule can result in some truly spectacular 3D animations.
 
 Overall, CSS transforms are really fun and intuitive to use, so get out there and develop!
 
------------------------------------------------------------
+- - -
 
 ###### Resources
+
 [CSS Transform Property](https://www.w3schools.com/cssref/css3_pr_transform.asp) /
 [CSS 2D Tranforms](https://www.w3schools.com/css/css3_2dtransforms.asp) /
 [CSS Transitions and Transforms for Beginners](https://thoughtbot.com/blog/transitions-and-transforms) /
