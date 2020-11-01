@@ -27,7 +27,8 @@ For instance...
 * Provide links to pages that do exist
 * Do not overwhelm the user, as is the case with any design
 * Include a search box
-* Include a comment section or contact information
+* Include a comment section
+* Include contact information
 
 ## Check out my video:
 
