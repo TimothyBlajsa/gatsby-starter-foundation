@@ -4,7 +4,7 @@ title: Embed A Pen
 slug: /embed-a-pen
 date: 2020-11-01 16:02
 description: custom page not found
-featuredImage: /assets/visuals-jpty4guvijm-unsplash.jpg
+featuredImage: /assets/alex-zr48yvupk04-unsplash.jpg
 ---
 # Page Not Found:
 
