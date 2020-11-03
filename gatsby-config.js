@@ -37,7 +37,7 @@ module.exports = {
         gfm: true,
         plugins: [
           {
-            resolve:'@weknow/gatsby-remark-codepen',
+            resolve:"@weknow/gatsby-remark-codepen",
             options: {
               theme: "dark",
               height: 400
