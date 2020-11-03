@@ -10,6 +10,8 @@ featuredImage: /assets/visuals-jpty4guvijm-unsplash.jpg
 
 We have all experienced this often frustrating phrase
 
+https://codepen.io/g00273900/pen/yLJaXwz
+
 However, the addition of fun or fancy styling can relieve a user's frustration, even doing so much as to prevent the user from clicking off the site
 
 And, as an added bonus, it's super easy!
