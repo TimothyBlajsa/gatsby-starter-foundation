@@ -10,6 +10,8 @@ featuredImage: /assets/justyn-warner-vh8w75u3le0-unsplash.jpg
 
 It's just as cool as it sounds! For this article, we will focus on an article from Dev.to.
 
+## The Article:
+
 1. Article: 3 Secrets behind single div CSS art
 2. Author: Nadia Laasri
 3. Date: Aug 29 Originally published at nadialaasri.me
