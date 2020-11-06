@@ -18,7 +18,7 @@ It's just as cool as it sounds! For this article, we will focus on an article fr
 4. Read time: 7 min
 5. Reactions: 49 hearts 12 unicorns 48 reading lists
 6. Comments: 13 comments
-7. Keywords: css codepen codenewbie html
+7. Keywords: css, codepen, codenewbie, html
 8. Url: [Check out the article](https://dev.to/laasrinadiaa/3-secrets-behind-single-div-css-art-1m64) 
 
 ## Discuss:
