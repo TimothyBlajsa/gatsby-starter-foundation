@@ -17,20 +17,20 @@ It's just as cool as it sounds! For this article, we will focus on an article fr
 5. Reactions: 49 hearts 12 unicorns 48 reading lists
 6. Comments: 13 comments
 7. Keywords: css codepen codenewbie html
-8. Url: https://dev.to/laasrinadiaa/3-secrets-behind-single-div-css-art-1m64 
+8. Url: [Check out the article](https://dev.to/laasrinadiaa/3-secrets-behind-single-div-css-art-1m64) 
 
 ## Discuss:
 
 1. This article introduces the creative unleashing of working with pseudoelements, with specific regards to creating layered artwork via CSS. 
-2. This is an important topic specifically if you are an artist alongside being a developer; however, this article can be beneficial to anybody as it discusses the aspects of ::before and ::after rules. The author goes through the topic by breaking the final render into its individual layers, as well as by presenting a live demonstration. I found this material personally helpful as I create art, including digital art so it will be fun to experiment with CSS styling in my artwork. I would recommend this article to anybody that wants to play with CSS as it is fun regardless of the application.
+2. This is an important topic specifically if you are an artist alongside being a developer; however, this article can be beneficial to anybody as it discusses the aspects of ::before and ::after rules. The author goes through the topic by breaking the final render into its individual layers, as well as by presenting a live demonstration. I found this material personally helpful as I create art, including digital art so it will be fun to experiment with CSS styling in my artwork. I would recommend this article to anybody that wants to play with CSS as it is fun regardless of the application; in addition, understanding layers and how styles lay on top of each other is a vital concept in CSS.
 
 ## Codepen:
 
-Original:
+[Original](https://codepen.io/dylanbaumann/pen/NgjZZo):
 
 https://codepen.io/dylanbaumann/pen/NgjZZo
 
-Mine:
+[Mine](https://codepen.io/g00273900/pen/KKMBGJX?editors=1100):
 
 https://codepen.io/g00273900/pen/KKMBGJX?editors=1100
 
