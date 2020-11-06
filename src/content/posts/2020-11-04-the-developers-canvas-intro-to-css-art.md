@@ -10,6 +10,8 @@ featuredImage: /assets/justyn-warner-vh8w75u3le0-unsplash.jpg
 
 It's just as cool as it sounds! For this article, we will focus on an article from Dev.to.
 
+![tablet news app and newspaper](/assets/matthew-guay-q7wddmgcbfg-unsplash.jpg)
+
 ## The Article:
 
 1. Article: 3 Secrets behind single div CSS art
