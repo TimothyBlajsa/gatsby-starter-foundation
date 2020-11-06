@@ -28,6 +28,8 @@ It's just as cool as it sounds! For this article, we will focus on an article fr
 1. This article introduces the creative unleashing of working with pseudoelements, with specific regards to creating layered artwork via CSS. 
 2. This is an important topic specifically if you are an artist alongside being a developer; however, this article can be beneficial to anybody as it discusses the aspects of ::before and ::after rules. The author goes through the topic by breaking the final render into its individual layers, as well as by presenting a live demonstration. I found this material personally helpful as I create art, including digital art so it will be fun to experiment with CSS styling in my artwork. I would recommend this article to anybody that wants to play with CSS as it is fun regardless of the application; in addition, understanding layers and how styles lay on top of each other is a vital concept in CSS.
 
+   ![](/assets/markus-spiske-qjnanf0jigk-unsplash.jpg)
+
 ## Codepen:
 
 [Original](https://codepen.io/dylanbaumann/pen/NgjZZo):
